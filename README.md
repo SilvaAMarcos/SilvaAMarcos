@@ -10,9 +10,10 @@
 </p>
 
 
-<p align="center">
+<div align="center">
+  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaAMarcos&layout=compact) 
-</p>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvaAMarcos&show_icons=true&theme=radical)
 
