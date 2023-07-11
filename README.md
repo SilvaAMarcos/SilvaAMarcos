@@ -21,6 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvaAMarcos&show_icons=true&theme=radical)
 
-  ![Snake animation](https://github.com/SilvaAMarcos/SilvaAMarcos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SilvaAMarcos/SilvaAMarcos/blob/output/github-contribution-grid-snake.svg)
 
 
