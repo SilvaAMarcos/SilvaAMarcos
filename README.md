@@ -1,6 +1,6 @@
 ### Hi, I'm Marcos 🤑 
 <p align="center">
-<img src="https://github.com/SilvaAMarcos/SilvaAMarcos/assets/102332801/7c608d80-05f1-49f8-97a4-6b7c79c0c7ab" width="400px" height="250px">
+<img src="https://github.com/SilvaAMarcos/SilvaAMarcos/assets/102332801/7c608d80-05f1-49f8-97a4-6b7c79c0c7ab" width="500px" height="350px">
 </p>
 
 <p align="center">
